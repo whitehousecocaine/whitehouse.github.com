@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cocaine in the UK - Awareness Guide</title>
+
+<!-- Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f8f9fa;
+    }
+    .hero {
+        background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
+        url('https://images.unsplash.com/photo-1581093588401-16ec7b6f4b6c');
+        background-size: cover;
+        background-position: center;
+        color: white;
+        padding: 120px 20px;
+        text-align: center;
+    }
+    .section {
+        padding: 60px 0;
+    }
+    .card {
+        border: none;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    footer {
+        background: #212529;
+        color: white;
+        padding: 20px;
+        text-align: center;
+    }
+</style>
+</head>
+
+<body>
+
+<!-- Hero Section -->
+<section class="hero">
+    <div class="container">
+        <h1 class="display-4">Cocaine in the UK</h1>
+        <p class="lead">Understanding impact, risks, and awareness</p>
+    </div>
+</section>
+
+<!-- Section 1 -->
+<section class="section">
+    <div class="container">
+        <h2 class="text-center mb-4">Overview of Cocaine Use</h2>
+        <p class="text-center">
+            Cocaine is a powerful stimulant drug that affects the central nervous system. 
+            In the UK, it remains one of the most commonly used illicit substances, particularly 
+            in nightlife and social environments. Its short-term effects include increased energy, 
+            alertness, and euphoria, but these effects come with serious risks.
+        </p>
+    </div>
+</section>
+
+<!-- Section 2 -->
+<section class="section bg-light">
+    <div class="container">
+        <h2 class="text-center mb-5">Health Risks</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card p-4">
+                    <h5>Short-Term Effects</h5>
+                    <ul>
+                        <li>Increased heart rate</li>
+                        <li>Elevated blood pressure</li>
+                        <li>Reduced appetite</li>
+                        <li>Anxiety and paranoia</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card p-4">
+                    <h5>Long-Term Effects</h5>
+                    <ul>
+                        <li>Heart disease</li>
+                        <li>Mental health disorders</li>
+                        <li>Respiratory issues</li>
+                        <li>Addiction</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card p-4">
+                    <h5>Overdose Risks</h5>
+                    <ul>
+                        <li>Cardiac arrest</li>
+                        <li>Seizures</li>
+                        <li>Stroke</li>
+                        <li>Sudden death</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Section 3 -->
+<section class="section">
+    <div class="container">
+        <h2 class="text-center mb-4">Legal Status in the UK</h2>
+        <p class="text-center">
+            Cocaine is classified as a Class A drug in the UK. Possession, supply, and production 
+            are illegal and carry severe penalties. Possession can result in up to 7 years in prison, 
+            while supply and production can lead to life imprisonment. Law enforcement continues 
+            to actively combat drug trafficking and misuse.
+        </p>
+    </div>
+</section>
+
+<!-- Section 4 -->
+<section class="section bg-light">
+    <div class="container">
+        <h2 class="text-center mb-4">Social Impact</h2>
+        <p class="text-center">
+            Cocaine use impacts not only individuals but also society as a whole. It contributes 
+            to crime, healthcare strain, and economic costs. Communities affected by drug misuse 
+            often experience increased violence and instability. Addressing these issues requires 
+            awareness, education, and support systems.
+        </p>
+    </div>
+</section>
+
+<!-- Section 5 -->
+<section class="section">
+    <div class="container">
+        <h2 class="text-center mb-4">Prevention & Support</h2>
+        <div class="row">
+            <div class="col-md-6">
+                <h5>Prevention Tips</h5>
+                <ul>
+                    <li>Educate yourself about risks</li>
+                    <li>Avoid peer pressure situations</li>
+                    <li>Promote healthy lifestyle choices</li>
+                    <li>Encourage open conversations</li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <h5>Support Options</h5>
+                <ul>
+                    <li>Professional counseling</li>
+                    <li>Rehabilitation programs</li>
+                    <li>Support groups</li>
+                    <li>Medical assistance</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer>
+    <p>&copy; 2026 Awareness Guide | Educational Purposes Only</p>
+</footer>
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
